@@ -84,4 +84,4 @@ Para escapar, además de lo que hace cualquier nave de combate, despliega misile
 Ahora nos piden que a cualquier nave se le pueda preguntar si _está de relajo_. Para eso tiene que cumplir dos condiciones: estar tranquila (esto ya lo hicimos antes) y tener poca actividad, esto depende de cada tipo de nave.
 - para _naves-baliza_ la condición es no haber cambiado nunca el color de la baliza.
 - para _naves de pasajeros_, haber servido en total menos de 50 raciones de comida.
-- para _naves de combate_, ser escuetas.
+- para _naves de combate_, ser escuetas.# Naves
